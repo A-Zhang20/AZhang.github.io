@@ -1,4 +1,12 @@
 # AZhang.github.io
-大数据了很多就开始了卡进度
-撒大了就爱上了看到
-是大家立刻打开撒娇
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+
+<a href="https://www.w3schools.com">This is a link</a>
+
+</body>
+</html>
